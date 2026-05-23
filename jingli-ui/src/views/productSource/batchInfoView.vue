@@ -47,7 +47,6 @@ import { queryList } from '@/api/user'
 import MyStorage from '@/utils/cache'
 import QRCode from 'qrcodejs2';
 import JsBarcode from 'jsbarcode';
-import Canvas from 'canvas';
 import {
   getSourceList,
   getSourceCount,
